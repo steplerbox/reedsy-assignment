@@ -1,0 +1,19 @@
+2.1. What kind of front end projects do you enjoy working on? Why?
+I enjoy creating tools like described in the first answer.
+I'd like to create tools that help end user to do things and also I can use such tools myself.
+
+2.2. Which are your favorite features of HTML5? How have you used them before?
+I was happy to use <video/>, <audio/> and MediaRecording API instead of old flash implementation.
+Also I like canvas and experiment with it sometimes.
+
+2.3. Explain the difference between creating a DOM element setting innerHTML and using createElement.
+createElement creates element of provided type and returns reference to it.
+Set innerHTML parses passed string as HTML and adds parsed sub-tree to the target element.
+
+2.4. Compare two-way data binding vs one-way data flow.
+One-way data binding means that the view always gets data from the model. To update the view need to update the model first and then redraw the view.
+Two-way data binding synchronizes the view and the model whenever either change.
+
+2.5. Why is asynchronous programming important in JavaScript?
+JavaScript is single threaded, it means that one thing can happen at a time and everything else is blocked until an operation completes.
+That's why JS provides callbacks mechanism that helps us to avoid blocking of code execution during longtime operations.
