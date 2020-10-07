@@ -1,8 +1,0 @@
-Tell us about one of your commercial projects with Vue.js or AngularJS.
-
-I have no commercial experience with Vue or Angular. But I can tell you about one of my React projects.
-The most interesting and challenging application that I worked on was the video+slides presentations recorder, editor and player (SlidePresenter).
-The essence of the player is playback video and show slides, annotations, quizzes, navigation by chapters and tracking progress.
-Also player supported different layouts, quality and playback speed.
-Recorder provided functionality to record media file and put slides during the recording.
-Editor provided tools to add or edit slides, annotations, quizzes, chapters and layouts.
